@@ -225,3 +225,44 @@ ul{
     #bag-2nd{
        margin-bottom: 80px;
     }
+    /*footer-section*/
+    .footer-section{
+    background-color: #FFF2F1;
+    max-width: 1212px;height: 455px;
+    display: flex;
+    justify-items: center;
+    text-align: center;
+    align-items: center;
+    margin: 80px auto;
+    border-radius: 20px;
+
+    }
+    .footer-title{
+        font-size: 1.9rem;
+        font-weight: 600;
+        color: #1f1f1f;
+    }
+    .special{
+        color: #707070;
+        font-weight: 500;
+    }
+    #input-email{
+        font-size: 1.5rem;
+        border-radius: 10px;
+        padding: 18px 40px;
+        max-width: 526px;
+        height: 73px;
+    }
+    .send-btn{
+         font-size: 1.5rem;
+         font-weight: 500;
+         color: #ffffff;
+        border-radius: 10px;
+        padding: 18px 48px;
+        max-width: 157px;
+        height: 73px;
+    }
+    .footer-container{
+        margin: auto;
+    }
+   
